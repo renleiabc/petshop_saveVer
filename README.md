@@ -9,7 +9,7 @@ npm install
 ### development
 
 ```
-npm  run dev
+npm  run start
 ```
 
 ### build formal production
